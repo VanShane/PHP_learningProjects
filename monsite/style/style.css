@@ -10,7 +10,8 @@
 #page-container {
     position: relative;
     min-height: 100vh;
-    margin: 0 1%;
+    width: 99%;
+    margin: 0 auto;
     padding: 2%;
     list-style: none;
     text-decoration: none;
